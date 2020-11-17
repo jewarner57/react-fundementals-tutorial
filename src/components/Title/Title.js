@@ -1,4 +1,3 @@
-// src/Title.js
 import './Title.css';
 import { NavLink } from 'react-router-dom'
 

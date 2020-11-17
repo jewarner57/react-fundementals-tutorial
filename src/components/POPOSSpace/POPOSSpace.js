@@ -1,5 +1,3 @@
-// src/Project.js
-
 import React from 'react'
 import './POPOSSpace.css'
 import { Link } from 'react-router-dom'
