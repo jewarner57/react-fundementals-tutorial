@@ -20,3 +20,31 @@
         grid-template-columns: 1fr;
     }
 } 
+
+.POPOSListForm {
+    width: 30%;
+    margin: auto;
+}
+
+.POPOSListForm form {
+    display: flex;
+    align-items: flex-start;
+}
+
+.POPOSListForm form input, .POPOSListForm form button {
+    padding: 0.5em;
+    margin: 0;
+    border: 1px solid;
+    font-size: 1;
+}
+
+.POPOSListForm form input {
+    flex: 1;
+    border-top-left-radius: 0.5em;
+    border-bottom-left-radius: 0.5em;
+}
+
+.POPOSListForm form button {
+    border-top-right-radius: 0.5em;
+    border-bottom-right-radius: 0.5em;
+}
